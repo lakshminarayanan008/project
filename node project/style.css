@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+}
+#sub{
+    width: 90px;
+    border-radius: 5px;
+    background-color: rgb(247, 247, 136);
+    
+}
+#citys{
+    width: 90px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+h1{
+    color: rgb(222, 222, 115);
+}
